@@ -60,7 +60,7 @@ You need to have Visual Studio 2019 (other versions aren't tested, please tell u
 
 # License
 
-Copyright (c) 2021-2022 Siddharth 
+Copyright (c) 2021-2022 Siddharth <br></br>
 Copyright (c) 2023 Hashirama
 
 
