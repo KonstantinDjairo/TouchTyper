@@ -57,3 +57,15 @@ You need to have Visual Studio 2019 (other versions aren't tested, please tell u
 1. Setup CMake. `cmake .. -DCMAKE_BUILD_TYPE=Release`
 1. Let's build the project! Run `cmake --build .`
 1. Go into Debug, your build of TouchTyper is there. You have now compiled TouchTyper for Windows using MSVC.
+
+# License
+
+Copyright (c) 2021-2022 Siddharth 
+Copyright (c) 2023 Hashirama
+
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program. If not, see https://www.gnu.org/licenses/.
